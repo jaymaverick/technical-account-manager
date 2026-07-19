@@ -8,7 +8,7 @@ const FeatureList = [
     imgSrc: 'img/hunting-ai.jpeg',
     description: (
       <>
-        No AI hype. Just ROI. I don't build tech for the sake of tech. I find the exact friction points in your business and deploy AI to erase them.
+        No vanity metrics. Just retention. I don't measure success by how many tickets got closed. I measure it by whether the customer is still here next year, and getting more value than they were last year.
       </>
     ),
   },
@@ -17,7 +17,7 @@ const FeatureList = [
     imgSrc: 'img/prototype.jpeg',
     description: (
       <>
-        I design for reality. I build lightweight, rapid prototypes to prove a concept works before asking a company to spend a single dollar on scaling it.
+        I diagnose before I respond. Every account has a health signal hiding somewhere: usage patterns, quiet champions, half-finished integrations. I find it before the renewal call, not during it.
       </>
     ),
   },
@@ -26,7 +26,7 @@ const FeatureList = [
     imgSrc: 'img/sisyphus.jpeg',
     description: (
       <>
-        I don't just talk strategy. I bring receipts. Check out the <a href="/docs/Introduction">Case Studies</a> to see exactly how my AI solutions fit into real-world operational constraints.
+        I don't just manage relationships. I debug them. Check out the Case Studies to see how I've turned technical friction into commercial trust. <strong>Real accounts, real fixes, real numbers.</strong>
       </>
     ),
   },

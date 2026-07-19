@@ -66,20 +66,20 @@ export default function Home() {
         <section style={{ padding: '4rem 0 2rem 0', textAlign: 'center' }}>
           <div className="container">
             <h2 style={{ fontSize: '2.0rem', maxWidth: '900px', margin: '0 auto', fontWeight: '700', lineHeight: '1.2' }}>
-              Secure, Smart and Efficient AI Solutions
+              Retention Through Trust, Not Just Tickets
             </h2>
           </div>
           <p style={{ fontSize: '1.2rem', color: 'var(--ifm-color-focus)', maxWidth: '800px', margin: '1.5rem auto 0 auto', lineHeight: '1.6', opacity: '0.9' }}>
-            Real AI integration goes beyond chatbot wrappers and forced tool adoption.
+            Most Customer Success is reactive: wait for the complaint, then respond. That's not retention, that's damage control.
           </p>
           <p style={{ fontSize: '1.2rem', color: 'var(--ifm-color-focus)', maxWidth: '700px', margin: '1.5rem auto 0 auto', lineHeight: '1.6', opacity: '0.9' }}>
-            I design and implement workflow automation systems that turn messy, unstructured business operations into precise, reliable data pipelines. Using cloud AI, local models, or both.
+            I manage technical accounts the way I build systems: understand the workflow first, find where the value is getting lost, and fix it before it becomes a churn conversation.
           </p>
           <p style={{ fontSize: '1.2rem', color: 'var(--ifm-color-focus)', maxWidth: '800px', margin: '1.5rem auto 0 auto', lineHeight: '1.6', opacity: '0.9' }}>
-            The result: operational delays measured in days become processes measured in minutes, with the compliance and security constraints your industry actually requires.            
+            The result: customers who don't just renew, but expand. They finally understand what your product can <strong>actually do for them.           </strong>
           </p>
           <p style={{ fontSize: '1.2rem', color: 'var(--ifm-color-focus)', maxWidth: '800px', margin: '1.5rem auto 0 auto', lineHeight: '1.6', opacity: '0.9' }}>
-            AI isn't a panacea. <strong>It's a precision instrument .</strong>
+            Technical trust isn't a soft skill. It's the retention strategy.
           </p>
         </section>
 
@@ -103,15 +103,15 @@ export default function Home() {
               lineHeight: '1.6'
             }}>
               <p style={{ marginBottom: '1.5rem' }}>
-                Most AI projects fail because the solution ignores the reality of the business it's supposed to serve.
+                Most account churn isn't a surprise. It's a signal that got ignored for months.
               </p>
               <p><strong>My operating rules are simple:</strong></p>
               <ul style={{ paddingLeft: '1.2rem' }}>
-                <li style={{ marginBottom: '0.5rem' }}><strong>Work with what exists:</strong> If your solution requires a multi-million dollar software migration, it's a bad solution.</li>
-                <li style={{ marginBottom: '0.5rem' }}><strong>Respect the IT department:</strong> Build sandboxed, zero-footprint tools that pass security audits on day one.</li>
-                <li><strong>Treat AI as the brain, not the body:</strong> Combine local models with hardware and basic automation to solve hyper-specific problems cleanly.</li>
+                <li style={{ marginBottom: '0.5rem' }}><strong>Read the data before the customer has to tell you: </strong> If a customer has to escalate before you know something's wrong, you were already too late.</li>
+                <li style={{ marginBottom: '0.5rem' }}><strong>Solve it yourself first: </strong> A technical question deserves a technical answer — not a ticket routed to three teams while the customer waits.</li>
+                <li><strong>Treat every account as a relationship, not a number: </strong> A $20k account and a $100k account both deserve to feel like the most important one in the room.</li>
               </ul>
-              <p>The goal isn't to force AI into your business. It's to find where AI removes a real bottleneck - and then build exactly that.</p>
+              <p>The goal isn't to hit a retention target. It's to make sure the customer never has a reason to leave in the first place.</p>
             </blockquote>
           </div>
         </section>
@@ -144,7 +144,7 @@ export default function Home() {
         <section style={{ padding: '1rem 0' }}>
           <div className="container" style={{ maxWidth: '800px' }}>
             <Heading as="h2" style={{ marginBottom: '1.5rem', textAlign: 'center', fontSize: '1.8rem' }}>
-              I Solve Your AI Implementation Problems
+              I Turn Technical Trust Into Retention
             </Heading>
             <blockquote style={{
               fontSize: '1.1rem',
@@ -155,14 +155,14 @@ export default function Home() {
               borderRadius: '4px',
               lineHeight: '1.6'
             }}>
-              <p><strong>Not sure what to call what you need?</strong></p>
-              <p>That's fine. Here's how other people have described it:</p>
+              <p><strong>Not sure if my background fits the mold?</strong></p>
+              <p>Here's how it actually breaks down:</p>
               <ul style={{ paddingLeft: '1.2rem' }}>
-                <li style={{ marginBottom: '0.5rem' }}><strong>"We need someone to figure out what to build"</strong> I map the workflow, identify the friction points, choose the right stack, and prove the concept before you spend a dollar on scaling.</li>
-                <li style={{ marginBottom: '0.5rem' }}><strong>"We need someone to make the business case"</strong> I translate operational bottlenecks into ROI projections and build the case for AI automation in language your CFO and IT department can both act on.</li>
-                <li><strong>"We need someone who can speak engineer"</strong> I think in business value and user outcomes, but I can hand a developer a blueprint they can actually build from.</li>
+                <li style={{ marginBottom: '0.5rem' }}><strong>"We need someone who can debug a real problem, not just log a ticket"</strong> I've spent years diagnosing exactly where a system or workflow breaks down, and fixing it myself before escalating it to someone else.</li>
+                <li style={{ marginBottom: '0.5rem' }}><strong>"We need someone who can talk to both the CFO and the engineer"</strong> I translate technical constraints into business outcomes and business goals into technical requirements in the same conversation, without losing either side.</li>
+                <li><strong>"We need someone who actually cares if the customer stays"</strong> Retention isn't a metric I report on. It's the outcome of doing the diagnostic and communication work well, every time.</li>
               </ul>
-              <p>The goal isn't to force AI into your business. It's to find where AI removes a real bottleneck - and then build exactly that.</p>
+              <p>The goal isn't to hit a quarterly retention number. It's to make sure the customer never had a reason to think about leaving.</p>
             </blockquote>
           </div>
           <div className={styles.buttons}>
