@@ -132,7 +132,7 @@ export default function Home() {
               />
             </div>
             <div style={{ textAlign: 'center' }}>
-              <p style={{ margin: '0 0 1rem 0', color: '#4b5563' }}>Need help with AI implementation?</p>
+              <p style={{ margin: '0 0 1rem 0', color: '#4b5563' }}>Need help with Customer Success?</p>
               <a href="https://www.linkedin.com/in/jaypitkanen/" style={{ fontSize: '1.1rem', fontWeight: '600', color: '#3B82F6', textDecoration: 'none' }}>
 <img src="img/LI-In-Bug.png" alt="LinkedIn" style={{ width: '24px', height: '24px' }} />
               Connect With Me on LinkedIn &rarr;
