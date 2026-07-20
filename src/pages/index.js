@@ -205,7 +205,7 @@ export default function Home() {
                 And we've done some amazing stuff together.
               </p>
               <p style={{ marginBottom: '1rem' }}>
-                My professional career is hardly traditional. Marketing, relationship coaching, hacking together prototypes. But a defining through-line has always been my desire to teach and help people understand. In coaching it was helping people understand themselves. In business, it's helping people understand the product.
+                My professional career is hardly traditional. Marketing, relationship coaching, hacking MVPs with the strangest people on the planet. But a defining through-line has always been my desire to teach and help people understand. In coaching it was helping people understand themselves. In business, it's helping customers understand the product and <strong>succeed in using it to grow their business.</strong>
               </p>
               <p style={{ marginBottom: '0rem' }}>
                 Here are some memorable moments over the years:
