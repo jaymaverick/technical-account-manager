@@ -1,0 +1,134 @@
+[
+  {
+    "account_id": "creator_01",
+    "creator_name": "Alpha Marketing Masters",
+    "weekly_gmv_usd": 58674,
+    "gmv_trend_7d": 1.25,
+    "checkout_error_rate": 0.0014,
+    "video_failure_rate": 0.005,
+    "email_spam_rate": 0.03,
+    "ssl_expiry_days": 149,
+    "health_score": 100
+  },
+  {
+    "account_id": "creator_02",
+    "creator_name": "Chef John's Baking Academy",
+    "weekly_gmv_usd": 54152,
+    "gmv_trend_7d": 0.59,
+    "checkout_error_rate": 0.0678,
+    "video_failure_rate": 0.0035,
+    "email_spam_rate": 0.03,
+    "ssl_expiry_days": 140,
+    "health_score": 35
+  },
+  {
+    "account_id": "creator_03",
+    "creator_name": "FitLife Video Network",
+    "weekly_gmv_usd": 55160,
+    "gmv_trend_7d": 1.06,
+    "checkout_error_rate": 0.004,
+    "video_failure_rate": 0.0513,
+    "email_spam_rate": 0.01,
+    "ssl_expiry_days": 1,
+    "health_score": 60
+  },
+  {
+    "account_id": "creator_04",
+    "creator_name": "CodeCraft Bootcamp",
+    "weekly_gmv_usd": 146318,
+    "gmv_trend_7d": 1.21,
+    "checkout_error_rate": 0.003,
+    "video_failure_rate": 0.0062,
+    "email_spam_rate": 0.2,
+    "ssl_expiry_days": 83,
+    "health_score": 75
+  },
+  {
+    "account_id": "creator_05",
+    "creator_name": "The Design School Online",
+    "weekly_gmv_usd": 115028,
+    "gmv_trend_7d": 0.98,
+    "checkout_error_rate": 0.0024,
+    "video_failure_rate": 0.0065,
+    "email_spam_rate": 0.03,
+    "ssl_expiry_days": 134,
+    "health_score": 100
+  },
+  {
+    "account_id": "creator_06",
+    "creator_name": "Crypto Trading Insiders",
+    "weekly_gmv_usd": 50357,
+    "gmv_trend_7d": 0.58,
+    "checkout_error_rate": 0.0045,
+    "video_failure_rate": 0.0024,
+    "email_spam_rate": 0.03,
+    "ssl_expiry_days": 172,
+    "health_score": 85
+  },
+  {
+    "account_id": "creator_07",
+    "creator_name": "Guitar Shred Mastery",
+    "weekly_gmv_usd": 150377,
+    "gmv_trend_7d": 1.15,
+    "checkout_error_rate": 0.0016,
+    "video_failure_rate": 0.0043,
+    "email_spam_rate": 0.02,
+    "ssl_expiry_days": 174,
+    "health_score": 100
+  },
+  {
+    "account_id": "creator_08",
+    "creator_name": "Real Estate Pro Blueprint",
+    "weekly_gmv_usd": 140997,
+    "gmv_trend_7d": 1.23,
+    "checkout_error_rate": 0.0036,
+    "video_failure_rate": 0.0037,
+    "email_spam_rate": 0.41,
+    "ssl_expiry_days": 122,
+    "health_score": 55
+  },
+  {
+    "account_id": "creator_09",
+    "creator_name": "Yoga Flow Streaming",
+    "weekly_gmv_usd": 139605,
+    "gmv_trend_7d": 1.29,
+    "checkout_error_rate": 0.0019,
+    "video_failure_rate": 0.0029,
+    "email_spam_rate": 0.02,
+    "ssl_expiry_days": 155,
+    "health_score": 100
+  },
+  {
+    "account_id": "creator_10",
+    "creator_name": "SaaS Growth Secrets",
+    "weekly_gmv_usd": 43588,
+    "gmv_trend_7d": 0.54,
+    "checkout_error_rate": 0.0662,
+    "video_failure_rate": 0.0069,
+    "email_spam_rate": 0.03,
+    "ssl_expiry_days": 180,
+    "health_score": 35
+  },
+  {
+    "account_id": "creator_11",
+    "creator_name": "The Copywriting Guild",
+    "weekly_gmv_usd": 133633,
+    "gmv_trend_7d": 1.02,
+    "checkout_error_rate": 0.004,
+    "video_failure_rate": 0.0056,
+    "email_spam_rate": 0.01,
+    "ssl_expiry_days": 165,
+    "health_score": 100
+  },
+  {
+    "account_id": "creator_12",
+    "creator_name": "AI Automation Studio",
+    "weekly_gmv_usd": 81876,
+    "gmv_trend_7d": 1.01,
+    "checkout_error_rate": 0.0015,
+    "video_failure_rate": 0.0024,
+    "email_spam_rate": 0.02,
+    "ssl_expiry_days": 2,
+    "health_score": 60
+  }
+]

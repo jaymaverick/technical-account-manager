@@ -3,12 +3,12 @@ sidebar_label: Case Studies - Start Here
 sidebar_position: 1
 ---
 # Case Studies
-On the left sidebar you'll see a list of my AI case studies.
+On the left sidebar you'll see a list of my technical account management case studies.
 
-I design my AI solutions primarily to:
+You'll notice a common throughline in these case studies:
 
-- Solve a specific existing business problem. I don't hallucinate solutions to problems that don't exist.
-- Be secure, independent and governable with local LLMs. I'm not a fan of paying for tokens when a consumer-grade GPU can handle most business problems. I'm also not a fan of sending sensitive user data to some overseas data center.
-- Plug into existing infrastructure non-invasively. I don't want to disturb a carefully crafted IT ecosystem, nor do I want to create more problems by introducing an AI solution.
+- I diagnose before I intervene. There's no guesswork: I react to usage data, support history, and silence. Then I take action **on what's actually happening.**
+- I attempt to solve it myself before escalating. A technical blocker deserves a technical answer, not a routing decision. I dig into the problem directly and only pull in engineering when it genuinely requires them.
+- I treat retention as a byproduct, not a target. I don't chase renewal numbers. Instead, I make sure the customer never has a reason to consider leaving in the first place.
 
-You'll find a handful of full blown prototype blueprints and some that are still at the concept stage.
+You'll find a mix of real account scenarios, technical troubleshooting breakdowns, and frameworks I use to manage a portfolio of accounts at scale.
