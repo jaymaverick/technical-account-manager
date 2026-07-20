@@ -190,13 +190,13 @@ export default function Home() {
         <section style={{ marginTop: '2rem' }}>
           <div className="container" style={{ maxWidth: '800px' }}>
             <Heading as="h2" style={{ marginBottom: '1.5rem', textAlign: 'center', fontSize: '1.8rem' }}>
-              Career Milestones and Highlights
+              Who Am I Really?
             </Heading>
               <p style={{ marginBottom: '1rem' }}>
-                I'm a marketer, product designer, builder, and creator. My brain has never been very good at the whole "stick to the status quo, don't rock the boat, get a traditional career"-sort of thing. 
+                I'm a communicator, explorer, dreamer and builder. My brain has never been very good at the whole "stick to the status quo, don't rock the boat, get a traditional career"-sort of thing.
               </p>
               <p style={{ marginBottom: '1rem' }}>
-                When I wanted to study SEO and blogging, Aalto University didn't even recognize the concept of <strong> "content marketing." </strong> I eventually realized I wasn't built for a university degree, even if one existed to suit me. No, the marketing tech was out there, and I needed to find it.
+                When I wanted to study SEO and blogging, Aalto University didn't even recognize the concept of <strong> "content marketing." </strong> I eventually realized I wasn't built for a traditional career path. No, my people were out there and I needed to go find them.
               </p>
               <p style={{ marginBottom: '1rem' }}>
                 It took a few years, but eventually I found my people: <strong> Dreamers. Shapers. Singers. Makers. </strong>
@@ -205,10 +205,10 @@ export default function Home() {
                 And we've done some amazing stuff together.
               </p>
               <p style={{ marginBottom: '1rem' }}>
-                My professional career is hardly traditional, but I pride myself on my record of using emerging cutting edge tech to create clever solutions to complex business problems.
+                My professional career is hardly traditional. Marketing, relationship coaching, hacking together prototypes. But a defining through-line has always been my desire to teach and help people understand. In coaching it was helping people understand themselves. In business, it's helping people understand the product.
               </p>
               <p style={{ marginBottom: '0rem' }}>
-                Here are some of my major achievements over the years:
+                Here are some memorable moments over the years:
               </p>
           </div>
          <div className="container" style={{ maxWidth: '900px' }}>
