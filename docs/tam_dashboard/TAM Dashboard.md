@@ -15,6 +15,11 @@ As a Technical Account Manager, monitoring gross merchandise volume (GMV) drops 
 Below is an interactive live demonstration of the client ledger built to catch checkout and SSL anomalies in real time:
 
 import TamDashboard from '@site/src/components/TamDashboard';
+import BrowserOnly from '@docusaurus/BrowserOnly';
+
+<BrowserOnly fallback={<div>Loading dashboard...</div>}>
+  {() => <TamDashboard />}
+</BrowserOnly>
 
 ## Key Takeaways
 - **Checkout Failures:** High error rates trigger revenue drop warnings automatically.

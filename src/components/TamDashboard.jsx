@@ -1,24 +1,10 @@
 import React, { useState, useEffect } from 'react';
 import { ShieldAlert, MailWarning, LayoutDashboard, Search, HelpCircle, DollarSign } from 'lucide-react';
+import mockData from '@site/static/data.json';
 
 function App() {
-    const [creators, setCreators] = useState([]);
-    const [loading, setLoading] = useState(true);
+    const [creators, setCreators] = useState(mockData);
     const [searchTerm, setSearchTerm] = useState('');
-
-    useEffect(() => {
-        fetch('/data.json')
-        .then((res) => res.json())
-        .then((data) => {
-            setCreators(data);
-            setLoading(false);
-        })
-        .catch((err) => console.error("Error loading creator data:", err));
-    }, []);
-
-    if (loading) {
-        return <div className="flex h-screen items-center justify-center bg-gray-900 text-white">Loading enterprise portfolio metrics...</div>;
-    }
 
     // Aggregate metrics calculations
     const totalPortfolioGMV = creators.reduce((sum, c) => sum + c.weekly_gmv_usd, 0);

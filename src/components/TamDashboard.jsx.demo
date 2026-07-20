@@ -1,0 +1,5 @@
+import React from 'react';
+
+export default function TamDashboard() {
+    return <div style={{ padding: '20px', background: 'red', color: 'white' }}>TEST COMPONENT IS WORKING</div>;
+}
