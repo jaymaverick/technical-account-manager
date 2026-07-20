@@ -208,7 +208,7 @@ export default function Home() {
                 My professional career is hardly traditional. Marketing, relationship coaching, hacking MVPs with the strangest people on the planet. But a defining through-line has always been my desire to teach and help people understand. In coaching it was helping people understand themselves. In business, it's helping customers understand the product and <strong>succeed in using it to grow their business.</strong>
               </p>
               <p style={{ marginBottom: '0rem' }}>
-                Here are some memorable moments over the years:
+                Here are some achievements I'm proud of:
               </p>
           </div>
          <div className="container" style={{ maxWidth: '900px' }}>
