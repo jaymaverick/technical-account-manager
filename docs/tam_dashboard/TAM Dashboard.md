@@ -8,11 +8,13 @@ title: Building a Creator Infrastructure Health Engine
 sidebar_label: TAM Dashboard Case Study
 ---
 
-# Creator Platform Infrastructure Monitoring
+# Account Health Monitoring Dashboard
 
-As a Technical Account Manager, monitoring gross merchandise volume (GMV) drops and deliverability risks is critical to preventing churn.
+As a Technical Account Manager, monitoring changes in key metrics and receiving alerts for risk accounts is critical to preventing churn.
 
-Below is an interactive live demonstration of the client ledger built to catch checkout and SSL anomalies in real time:
+Below is an interactive live demonstration of a simple account dashboard I built to catch checkout and SSL anomalies in real time.
+
+This demo runs using mock data, but the functionality is fundamentally the same as the dashboard I used daily for over a year. There's many ways to upgrade this dashboard, and I've since moved onto a more elaborate and scalable setup using Posthog.
 
 import TamDashboard from '@site/src/components/TamDashboard';
 import BrowserOnly from '@docusaurus/BrowserOnly';
