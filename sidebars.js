@@ -17,6 +17,17 @@ const sidebars = {
         'tam_dashboard/TAM Dashboard',
       ],
     },
+    {
+      type: 'category',
+      label: 'Churn Warning Signals',
+      link: {
+        type: 'doc',
+        id: 'churn_warning/Churn Warning Signals',
+      },
+      items: [
+        'churn_warning/Churn Warning Signals',
+      ],
+    },
 //   {
 //     type: 'category',
 //     label: 'AI Legacy Hardware Bridge',

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/tam_dashboard/TAM Dashboard.md",
+                "file": "docs/churn_warning/Churn Warning Signals.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "TAM Dashboard"
+              "title": "Churn Warning Signals"
             }
           }
         ]
@@ -185,6 +185,9 @@
   },
   "active": "091cba1d192405c7",
   "lastOpenFiles": [
+    "docs/tam_dashboard/TAM Dashboard.md",
+    "docs/churn_warning/Churn Warning Signals.md",
+    "docs/churn_warning",
     "postcss.config.js",
     "tailwind.config.js",
     "node_modules/postcss-js/index.mjs",
@@ -195,8 +198,6 @@
     "node_modules/postcss-js/parser.js",
     "node_modules/postcss-js/objectifier.js",
     "node_modules/postcss-js/index.js",
-    "node_modules/postcss-js/async.js",
-    "node_modules/postcss-js/LICENSE",
     "node_modules/postcss-nested/README.md",
     "node_modules/postcss-load-config/README.md",
     "node_modules/camelcase-css/README.md",
@@ -220,7 +221,6 @@
     "node_modules/mz/README.md",
     "node_modules/tinyglobby/node_modules/picomatch/README.md",
     "node_modules/tinyglobby/node_modules/fdir/README.md",
-    "node_modules/tinyglobby/README.md",
     "static/img/safety_inspector.png",
     "safety_inspector.png",
     "static/img/Safetum System Topology.png",
