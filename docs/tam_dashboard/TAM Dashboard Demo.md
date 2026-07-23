@@ -4,7 +4,7 @@ domain: TAM Portfolio
 architecture: React Python
 status: Overview
 description: Portfolio demo for technical account management dashboard
-title: Building a Creator Infrastructure Health Engine
+title: TAM Dashboard Demo
 sidebar_label: TAM Dashboard Demo
 ---
 
