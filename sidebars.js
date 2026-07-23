@@ -8,18 +8,18 @@ const sidebars = {
     },
     {
       type: 'category',
-      label: 'TAM Dashboard',
+      label: 'Account Health Dashboard (Demo)',
       link: {
         type: 'doc',
-        id: 'tam_dashboard/TAM Dashboard',
+        id: 'tam_dashboard/TAM Dashboard Demo',
       },
       items: [
-        'tam_dashboard/TAM Dashboard',
+        'tam_dashboard/TAM Dashboard Demo',
       ],
     },
     {
       type: 'category',
-      label: 'Churn Warning Signals',
+      label: 'Customer Churn Risk Signals (Presentation)',
       link: {
         type: 'doc',
         id: 'churn_warning/Churn Warning Signals',

@@ -5,7 +5,7 @@ architecture: Youtube video
 status: Overview
 description: Churn Signals to look for in Account Management Dashboard
 title: Building a Creator Infrastructure Health Engine
-sidebar_label: Churn Warning Signals
+sidebar_label: Churn Signals Presentation
 ---
 
 # 4 Warning Signs of Customer Churn

@@ -5,7 +5,7 @@ architecture: React Python
 status: Overview
 description: Portfolio demo for technical account management dashboard
 title: Building a Creator Infrastructure Health Engine
-sidebar_label: TAM Dashboard Case Study
+sidebar_label: TAM Dashboard Demo
 ---
 
 # Account Health Monitoring Dashboard

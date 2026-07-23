@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/churn_warning/Churn Warning Signals.md",
+                "file": "docs/tam_dashboard/TAM Dashboard Demo.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Churn Warning Signals"
+              "title": "TAM Dashboard Demo"
             }
           }
         ]
@@ -183,10 +183,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "091cba1d192405c7",
+  "active": "f7e4742f6ec0fc0f",
   "lastOpenFiles": [
-    "docs/tam_dashboard/TAM Dashboard.md",
     "docs/churn_warning/Churn Warning Signals.md",
+    "docs/tam_dashboard/TAM Dashboard Demo.md",
     "docs/churn_warning",
     "postcss.config.js",
     "tailwind.config.js",
